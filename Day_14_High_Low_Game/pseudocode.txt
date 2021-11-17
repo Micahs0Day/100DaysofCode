@@ -1,0 +1,30 @@
+Print "Higher Lower" Logo
+
+Get random value from list (A):
+print (Compare A: {name}, a {description}, from {country} )
+
+Print VS Logo
+
+Get random value from list (B):
+print Against B: {name}, a {description}, from {country} )
+
+print (Who has more followers? Type 'A' or 'B': )
+
+score = 0
+
+If B > A && Input == B
+	Score +=1
+	You're right! Current score: {score}.
+	B Becomes A
+	Import new B thats != new A 
+
+elif A > B && Input == A
+	Score +=1
+	You're right! Current score: {score}.
+	B Becomes A
+	Import new B thats != new A 
+
+Else: Print(Sorry, that's wrong. Final Score: {score} )
+	End game
+
+	
